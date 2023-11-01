@@ -1,5 +1,3 @@
-package Algoritms;
-
 import java.util.Scanner;
 
 public class PiramidaSort {
